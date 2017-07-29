@@ -1,4 +1,13 @@
 .audio-button {
     float: left;
     margin-right: 10px;
+    margin-bottom: 20px;
+
+    height: 100px;
+    width: 100px;
+    display block;
+}
+
+hr {
+    clear: left;
 }
